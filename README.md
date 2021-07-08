@@ -24,6 +24,7 @@
 + CSSC 主席
   + [@mikecovlee](https://github.com/mikecovlee)
 + CSSC 执委
+  + [@TechQuery](https://github.com/TechQuery)
   + [@access-rend](https://github.com/access-rend)
   + [@jin1xiao3long2](https://github.com/jin1xiao3long2)
 + CSSC 委员
